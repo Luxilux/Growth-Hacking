@@ -3,8 +3,10 @@ Bienvenue à toi jeune moussaillion !
 <p> Tu dois certainement être là  parce que THP t'as confié le devoir... non je dirai même l'honneur de corriger notre groupe.
 Enfin bref, nous avons créer une application de growth-hacking rien que pour toi. <p> 
  <p> Oui nous avons fait ça pour toi car nous t'aimons. Donc si tu es chaud pour un plan cam contact nous <3 <p>
-
-
+Les liens 
+  THP Bordeaux : http://aware-hearing.surge.sh/
+  THP Mangas : http://yummy-scene.surge.sh/
+ 
 # Mode opératoire
 - $ git clone
 
